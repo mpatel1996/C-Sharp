@@ -1,0 +1,4 @@
+Create a new dotnet project: "dotnet new console -o <NAME>"
+Run dotnet project: 
+    - cd into project  
+    - "dotnet run"

@@ -1,0 +1,15 @@
+C:\CSharp\start\prop-tuts\obj\Debug\net6.0\prop-tuts.csproj.AssemblyReference.cache
+C:\CSharp\start\prop-tuts\obj\Debug\net6.0\prop-tuts.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\start\prop-tuts\obj\Debug\net6.0\prop-tuts.AssemblyInfoInputs.cache
+C:\CSharp\start\prop-tuts\obj\Debug\net6.0\prop-tuts.AssemblyInfo.cs
+C:\CSharp\start\prop-tuts\obj\Debug\net6.0\prop-tuts.csproj.CoreCompileInputs.cache
+C:\CSharp\start\prop-tuts\bin\Debug\net6.0\prop-tuts.exe
+C:\CSharp\start\prop-tuts\bin\Debug\net6.0\prop-tuts.deps.json
+C:\CSharp\start\prop-tuts\bin\Debug\net6.0\prop-tuts.runtimeconfig.json
+C:\CSharp\start\prop-tuts\bin\Debug\net6.0\prop-tuts.dll
+C:\CSharp\start\prop-tuts\bin\Debug\net6.0\prop-tuts.pdb
+C:\CSharp\start\prop-tuts\obj\Debug\net6.0\prop-tuts.dll
+C:\CSharp\start\prop-tuts\obj\Debug\net6.0\refint\prop-tuts.dll
+C:\CSharp\start\prop-tuts\obj\Debug\net6.0\prop-tuts.pdb
+C:\CSharp\start\prop-tuts\obj\Debug\net6.0\prop-tuts.genruntimeconfig.cache
+C:\CSharp\start\prop-tuts\obj\Debug\net6.0\ref\prop-tuts.dll

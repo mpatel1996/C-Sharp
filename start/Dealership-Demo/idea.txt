@@ -1,0 +1,21 @@
+Dealership tracking system, for car inventory and customers and employees
+
+Dealership - parent :
+    = DealershipName
+    = DealershipLocation
+
+Employees - child :
+    = EmployeeName
+    = EmployeeTitle
+    = EmployeeSalary
+
+Vehicle - child :
+    = Make
+    = Model
+    = Year
+
+customers - child :
+    = CustomerFName
+    = CustomerLName
+    = CustomerPhone
+    = CustomerEmail 

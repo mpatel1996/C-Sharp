@@ -1,0 +1,15 @@
+C:\CSharp\start\Dealership-Demo\bin\Debug\net6.0\Dealership-Demo.exe
+C:\CSharp\start\Dealership-Demo\bin\Debug\net6.0\Dealership-Demo.deps.json
+C:\CSharp\start\Dealership-Demo\bin\Debug\net6.0\Dealership-Demo.runtimeconfig.json
+C:\CSharp\start\Dealership-Demo\bin\Debug\net6.0\Dealership-Demo.dll
+C:\CSharp\start\Dealership-Demo\bin\Debug\net6.0\Dealership-Demo.pdb
+C:\CSharp\start\Dealership-Demo\obj\Debug\net6.0\Dealership-Demo.csproj.AssemblyReference.cache
+C:\CSharp\start\Dealership-Demo\obj\Debug\net6.0\Dealership-Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\start\Dealership-Demo\obj\Debug\net6.0\Dealership-Demo.AssemblyInfoInputs.cache
+C:\CSharp\start\Dealership-Demo\obj\Debug\net6.0\Dealership-Demo.AssemblyInfo.cs
+C:\CSharp\start\Dealership-Demo\obj\Debug\net6.0\Dealership-Demo.csproj.CoreCompileInputs.cache
+C:\CSharp\start\Dealership-Demo\obj\Debug\net6.0\Dealership-Demo.dll
+C:\CSharp\start\Dealership-Demo\obj\Debug\net6.0\refint\Dealership-Demo.dll
+C:\CSharp\start\Dealership-Demo\obj\Debug\net6.0\Dealership-Demo.pdb
+C:\CSharp\start\Dealership-Demo\obj\Debug\net6.0\Dealership-Demo.genruntimeconfig.cache
+C:\CSharp\start\Dealership-Demo\obj\Debug\net6.0\ref\Dealership-Demo.dll

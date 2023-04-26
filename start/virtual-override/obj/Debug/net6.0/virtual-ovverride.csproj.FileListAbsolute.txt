@@ -1,0 +1,10 @@
+C:\CSharp\start\virtual-ovverride\obj\Debug\net6.0\virtual-ovverride.csproj.AssemblyReference.cache
+C:\CSharp\start\virtual-ovverride\obj\Debug\net6.0\virtual-ovverride.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\start\virtual-ovverride\obj\Debug\net6.0\virtual-ovverride.AssemblyInfoInputs.cache
+C:\CSharp\start\virtual-ovverride\obj\Debug\net6.0\virtual-ovverride.AssemblyInfo.cs
+C:\CSharp\start\virtual-ovverride\obj\Debug\net6.0\virtual-ovverride.csproj.CoreCompileInputs.cache
+C:\CSharp\start\virtual-override\obj\Debug\net6.0\virtual-ovverride.csproj.AssemblyReference.cache
+C:\CSharp\start\virtual-override\obj\Debug\net6.0\virtual-ovverride.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\start\virtual-override\obj\Debug\net6.0\virtual-ovverride.AssemblyInfoInputs.cache
+C:\CSharp\start\virtual-override\obj\Debug\net6.0\virtual-ovverride.AssemblyInfo.cs
+C:\CSharp\start\virtual-override\obj\Debug\net6.0\virtual-ovverride.csproj.CoreCompileInputs.cache

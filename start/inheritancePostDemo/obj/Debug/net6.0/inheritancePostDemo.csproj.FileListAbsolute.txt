@@ -1,0 +1,15 @@
+C:\CSharp\start\inheritancePostDemo\bin\Debug\net6.0\inheritancePostDemo.exe
+C:\CSharp\start\inheritancePostDemo\bin\Debug\net6.0\inheritancePostDemo.deps.json
+C:\CSharp\start\inheritancePostDemo\bin\Debug\net6.0\inheritancePostDemo.runtimeconfig.json
+C:\CSharp\start\inheritancePostDemo\bin\Debug\net6.0\inheritancePostDemo.dll
+C:\CSharp\start\inheritancePostDemo\bin\Debug\net6.0\inheritancePostDemo.pdb
+C:\CSharp\start\inheritancePostDemo\obj\Debug\net6.0\inheritancePostDemo.csproj.AssemblyReference.cache
+C:\CSharp\start\inheritancePostDemo\obj\Debug\net6.0\inheritancePostDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\start\inheritancePostDemo\obj\Debug\net6.0\inheritancePostDemo.AssemblyInfoInputs.cache
+C:\CSharp\start\inheritancePostDemo\obj\Debug\net6.0\inheritancePostDemo.AssemblyInfo.cs
+C:\CSharp\start\inheritancePostDemo\obj\Debug\net6.0\inheritancePostDemo.csproj.CoreCompileInputs.cache
+C:\CSharp\start\inheritancePostDemo\obj\Debug\net6.0\inheritancePostDemo.dll
+C:\CSharp\start\inheritancePostDemo\obj\Debug\net6.0\refint\inheritancePostDemo.dll
+C:\CSharp\start\inheritancePostDemo\obj\Debug\net6.0\inheritancePostDemo.pdb
+C:\CSharp\start\inheritancePostDemo\obj\Debug\net6.0\inheritancePostDemo.genruntimeconfig.cache
+C:\CSharp\start\inheritancePostDemo\obj\Debug\net6.0\ref\inheritancePostDemo.dll

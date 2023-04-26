@@ -1,0 +1,15 @@
+C:\CSharp\tic-tac\obj\Debug\net6.0\tic-tac.csproj.AssemblyReference.cache
+C:\CSharp\tic-tac\obj\Debug\net6.0\tic-tac.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\tic-tac\obj\Debug\net6.0\tic-tac.AssemblyInfoInputs.cache
+C:\CSharp\tic-tac\obj\Debug\net6.0\tic-tac.AssemblyInfo.cs
+C:\CSharp\tic-tac\obj\Debug\net6.0\tic-tac.csproj.CoreCompileInputs.cache
+C:\CSharp\tic-tac\bin\Debug\net6.0\tic-tac.exe
+C:\CSharp\tic-tac\bin\Debug\net6.0\tic-tac.deps.json
+C:\CSharp\tic-tac\bin\Debug\net6.0\tic-tac.runtimeconfig.json
+C:\CSharp\tic-tac\bin\Debug\net6.0\tic-tac.dll
+C:\CSharp\tic-tac\bin\Debug\net6.0\tic-tac.pdb
+C:\CSharp\tic-tac\obj\Debug\net6.0\tic-tac.dll
+C:\CSharp\tic-tac\obj\Debug\net6.0\refint\tic-tac.dll
+C:\CSharp\tic-tac\obj\Debug\net6.0\tic-tac.pdb
+C:\CSharp\tic-tac\obj\Debug\net6.0\tic-tac.genruntimeconfig.cache
+C:\CSharp\tic-tac\obj\Debug\net6.0\ref\tic-tac.dll

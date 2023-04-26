@@ -1,0 +1,15 @@
+C:\CSharp\start\stackQ\bin\Debug\net6.0\stackQ.exe
+C:\CSharp\start\stackQ\bin\Debug\net6.0\stackQ.deps.json
+C:\CSharp\start\stackQ\bin\Debug\net6.0\stackQ.runtimeconfig.json
+C:\CSharp\start\stackQ\bin\Debug\net6.0\stackQ.dll
+C:\CSharp\start\stackQ\bin\Debug\net6.0\stackQ.pdb
+C:\CSharp\start\stackQ\obj\Debug\net6.0\stackQ.csproj.AssemblyReference.cache
+C:\CSharp\start\stackQ\obj\Debug\net6.0\stackQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\start\stackQ\obj\Debug\net6.0\stackQ.AssemblyInfoInputs.cache
+C:\CSharp\start\stackQ\obj\Debug\net6.0\stackQ.AssemblyInfo.cs
+C:\CSharp\start\stackQ\obj\Debug\net6.0\stackQ.csproj.CoreCompileInputs.cache
+C:\CSharp\start\stackQ\obj\Debug\net6.0\stackQ.dll
+C:\CSharp\start\stackQ\obj\Debug\net6.0\refint\stackQ.dll
+C:\CSharp\start\stackQ\obj\Debug\net6.0\stackQ.pdb
+C:\CSharp\start\stackQ\obj\Debug\net6.0\stackQ.genruntimeconfig.cache
+C:\CSharp\start\stackQ\obj\Debug\net6.0\ref\stackQ.dll

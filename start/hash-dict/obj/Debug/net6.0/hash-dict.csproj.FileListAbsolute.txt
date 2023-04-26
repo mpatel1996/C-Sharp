@@ -1,0 +1,15 @@
+C:\CSharp\start\hash-dict\obj\Debug\net6.0\hash-dict.csproj.AssemblyReference.cache
+C:\CSharp\start\hash-dict\obj\Debug\net6.0\hash-dict.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\start\hash-dict\obj\Debug\net6.0\hash-dict.AssemblyInfoInputs.cache
+C:\CSharp\start\hash-dict\obj\Debug\net6.0\hash-dict.AssemblyInfo.cs
+C:\CSharp\start\hash-dict\obj\Debug\net6.0\hash-dict.csproj.CoreCompileInputs.cache
+C:\CSharp\start\hash-dict\bin\Debug\net6.0\hash-dict.exe
+C:\CSharp\start\hash-dict\bin\Debug\net6.0\hash-dict.deps.json
+C:\CSharp\start\hash-dict\bin\Debug\net6.0\hash-dict.runtimeconfig.json
+C:\CSharp\start\hash-dict\bin\Debug\net6.0\hash-dict.dll
+C:\CSharp\start\hash-dict\bin\Debug\net6.0\hash-dict.pdb
+C:\CSharp\start\hash-dict\obj\Debug\net6.0\hash-dict.dll
+C:\CSharp\start\hash-dict\obj\Debug\net6.0\refint\hash-dict.dll
+C:\CSharp\start\hash-dict\obj\Debug\net6.0\hash-dict.pdb
+C:\CSharp\start\hash-dict\obj\Debug\net6.0\hash-dict.genruntimeconfig.cache
+C:\CSharp\start\hash-dict\obj\Debug\net6.0\ref\hash-dict.dll
